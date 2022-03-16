@@ -4,7 +4,10 @@
 ### Install:
 - sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
----
+### Fix Potential problems
+- sudo chown -R $(whoami) /usr/local/share/zsh /usr/local/share/zsh/site-functions
+
+— 
 
 ## BREW
 ### Install 
@@ -16,8 +19,10 @@
 - brew install --cask docker
 - brew install --cask react-native-debugger
 - brew install --cask bitwarden
+- brew install watchman
+- brew install --cask postman
 
----
+— 
 
 ## NVM
 ### Install
