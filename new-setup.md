@@ -21,6 +21,7 @@
 - brew install --cask bitwarden
 - brew install watchman
 - brew install --cask postman
+- brew install node
 
 — 
 
