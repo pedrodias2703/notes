@@ -22,6 +22,7 @@
 - brew install watchman
 - brew install --cask postman
 - brew install node
+- brew install --cask meetingbar (alternative to Meeter)
 
 — 
 
@@ -31,3 +32,6 @@
 
 ### Packages
 - npm install --global yarn
+
+## WITHOUT BREW
+- Meeter (meeting bar): https://www.bardeen.ai/meeter
