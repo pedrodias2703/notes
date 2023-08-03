@@ -23,6 +23,7 @@
 - brew install --cask postman
 - brew install node
 - brew install --cask meetingbar (alternative to Meeter)
+- brew install --cask obsidian
 
 — 
 
